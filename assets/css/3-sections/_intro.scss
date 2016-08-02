@@ -1,0 +1,39 @@
+.intro {
+    background: url(../img/intro.jpg);
+    background-size: cover;
+    min-height: 670px;
+    top:20px;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Italianno);
+
+.site-heading{
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    letter-spacing: 0.5em;
+    text-align: left;
+    font-weight: 500;
+    font-weight: bold;
+    height:150px;
+    letter-spacing: -1px;
+    top: 100px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    color: #CC6666;
+    position: relative; 
+}
+
+.site-subheading{
+  font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 500;
+    font-weight: bold;
+    line-height: 56px;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    color: black;
+    top: 100px;
+    position: relative; 
+}

@@ -1,0 +1,16 @@
+<footer class="site-footer">
+        <div class="lockup">
+            <div class="link-wrapper">
+              <ul class="soc">
+                {% for social in site.data.settings.socials %}
+                <li>
+                    <a class="{{ social.icon }}" href="{{ social.link }}"></a>
+                </li>
+                {% endfor %}
+              </ul> <br>
+            <p>Copyleft <span class="copy-left">&copy;</span> Jennifer Parak   2016</p>
+            </div>
+          </div>
+  </div>
+
+</footer>

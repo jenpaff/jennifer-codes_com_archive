@@ -1,0 +1,21 @@
+<section class="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <p class="heading" id="contact">Contact Me</p>
+                    <p class="contact-subheading">Do or do not- there is no try.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <form method="POST" action="//formspree.io/{{ site.data.settings.email }}">      
+                      <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+                      <input name="email" type="text" class="feedback-input" placeholder="Email" />
+                      <textarea name="text" class="feedback-input" placeholder="Hi, Jennifer! We want to hire you!"></textarea>
+                      <input type="submit" value="Send"/>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
