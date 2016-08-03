@@ -3,6 +3,7 @@
     background-size: cover;
     min-height: 670px;
     top:20px;
+    width: 100%;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Italianno);
@@ -36,4 +37,17 @@
     color: black;
     top: 100px;
     position: relative; 
+}
+
+@media screen and (max-width:700px) {
+    .site-heading{
+        font-size: 60px;
+        font-weight: bold;
+        top: 50px;
+    }
+
+    .site-subheading{
+        top: 50px;
+        font-size: 30px;
+    }
 }

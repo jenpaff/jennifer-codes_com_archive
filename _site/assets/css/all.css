@@ -638,7 +638,7 @@ ul.topnav li.icon {
   display: none; }
 
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
-@media screen and (max-width: 1310px) {
+@media screen and (max-width: 700px) {
   ul.topnav li:not(:first-child) {
     display: none; }
 
@@ -646,7 +646,7 @@ ul.topnav li.icon {
     float: right;
     display: inline-block; } }
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
-@media screen and (max-width: 1310px) {
+@media screen and (max-width: 700px) {
   ul.topnav-responsive {
     position: relative; }
 
@@ -656,8 +656,7 @@ ul.topnav li.icon {
     top: 0; }
 
   ul.topnav-responsive li {
-    float: none;
-    display: inline; }
+    float: none; }
 
   ul.topnav-responsive li a {
     display: block;
@@ -680,7 +679,8 @@ header.smaller li a {
   background: url(../img/intro.jpg);
   background-size: cover;
   min-height: 670px;
-  top: 20px; }
+  top: 20px;
+  width: 100%; }
 
 .site-heading {
   font-family: 'Italianno', cursive;
@@ -711,6 +711,15 @@ header.smaller li a {
   top: 100px;
   position: relative; }
 
+@media screen and (max-width: 700px) {
+  .site-heading {
+    font-size: 60px;
+    font-weight: bold;
+    top: 50px; }
+
+  .site-subheading {
+    top: 50px;
+    font-size: 30px; } }
 /**
  * Timeline
  */
