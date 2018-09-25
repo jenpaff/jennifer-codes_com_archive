@@ -1,26 +1,19 @@
 ---
-title: Google Summer of Code 2016
+title: Software Developer at Accenture
 ---
 
-<strong>Abstract:</strong> The 2nd year in a row, I have been a mentor at Google Summer of Code. This year, I am mentoring an Open Source Mobile App Project "Power Up" powered by Systers. 
+<strong>Abstract:</strong> Working as a Software Developer at Accenture I had to acquire various different skills and always had to be on my toes working at the clients office. The company also offers great opportunites to get involved in volunteering within the company. 
 
-<strong>Period:</strong> Mai 2016 - September 2016
+<strong>Period:</strong> Since January 2017
 
 <strong>Skills Learnt:</strong>
-* iOS development in Swift
-* Unit Testing
-* Advanced Github Subversion Control
-* Project management
-* Time management
-* Team and leadership skills
+* Problem solving
+* Contious Integration & Delivery
+* Agile Development & Scrum
+* Java 8/9
+* Database Design
+* Spring 
+* Hibernate / JPA
+* FrontEnd & BackEnd Development
 
-<strong>Description:</strong> PowerUp is an educational choose-your-own-adventure game that utilizes a users uploaded curriculum to empower pre-adolescents to take charge of their reproductive health. This summer the project aimed at introducing the main game mechanics, e.g. implementing the avatar and a points-based reward system. 
-
-<strong>Resources:</strong> 
-<ul> 
-<li> Check out the code on <a href="https://github.com/systers/powerup-iOS">Github</a>.</li>
-<li> What is <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> ? </li>
-<li> Who are <a href="http://anitaborg.org/get-involved/systers/">Systers</a>? </li>
-</ul>
-
- Feel free to contact me, if you are interested in contributing.
+<strong>Description:</strong> My client is a social insurance company in Austria. We are currently in the making of transforming and digitalizing its processes in the course of a huge legacy software migration whilst keeping up the usual production services. The transformation is happening internally through implementing batch services e.g. to calculate the insurers income and underlying social insurance contribution, as well as implementing front end services for the employess and creating an automated process for the insurer, e.g. consulting professionals through the app or website.

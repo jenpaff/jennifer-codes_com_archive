@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Italianno);
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -683,7 +683,7 @@ header.smaller li a {
   width: 100%; }
 
 .site-heading {
-  font-family: 'Italianno', cursive;
+  font-family: 'Kaushan Script', cursive;
   font-size: 70px;
   letter-spacing: 0.5em;
   text-align: left;
@@ -858,37 +858,37 @@ header.smaller li a {
   margin: 0; }
 
 .col-1 {
-  width: 4.80769%; }
+  width: 4.8076923077%; }
 
 .col-2 {
-  width: 13.46154%; }
+  width: 13.4615384615%; }
 
 .col-3 {
-  width: 22.11538%; }
+  width: 22.1153846154%; }
 
 .col-4 {
-  width: 30.76923%; }
+  width: 30.7692307692%; }
 
 .col-5 {
-  width: 39.42308%; }
+  width: 39.4230769231%; }
 
 .col-6 {
-  width: 48.07692%; }
+  width: 48.0769230769%; }
 
 .col-7 {
-  width: 56.73077%; }
+  width: 56.7307692308%; }
 
 .col-8 {
-  width: 65.38462%; }
+  width: 65.3846153846%; }
 
 .col-9 {
-  width: 74.03846%; }
+  width: 74.0384615385%; }
 
 .col-10 {
-  width: 82.69231%; }
+  width: 82.6923076923%; }
 
 .col-11 {
-  width: 91.34615%; }
+  width: 91.3461538462%; }
 
 .col-12 {
   width: 100%;
@@ -918,16 +918,16 @@ header.smaller li a {
 #proj-3:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-3 {
   display: block; }
 
-#proj-5:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-5 {
+#proj-4:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-4 {
   display: block; }
 
-#proj-7:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-7 {
+#proj-5:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-5 {
   display: block; }
 
 #proj-6:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-6 {
   display: block; }
 
-#proj-4:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-4 {
+#proj-7:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-7 {
   display: block; }
 
 #proj-8:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-8 {

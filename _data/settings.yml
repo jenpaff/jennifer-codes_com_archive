@@ -29,7 +29,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Geeky girl who loves coding, software engineering, systems security and loves world peace.'
+  description: 'Software Engineer who is passioate about coding, machine learning, systems security and loves world peace.'
   author: 'https://plus.google.com/u/0/111679023439608822937/posts'
 
 #-------------------------------
@@ -47,19 +47,19 @@ google-analytics-ua: UA-81637567-1
 
 intro-heading: Hi!.. I'm Jennifer...
 
-intro: I'm a 25-year old Computer Scientist. <br> And I'm on a mission to make the world <br>a better place.<br><br>...Yeh, that's right.
+intro: I'm a 27-year old Computer Scientist. <br> And I'm on a mission to make the <br> world a better place.<br><br>...Yeh, that's right.
 
 #-------------------------------
 # Work and Projects
 
 projects:
-- {name: Google Summer Of Code 2016, folder: 'proj-1', file: 'portfolio/proj-1.html', url: }
-- {name: MSc Dissertation Cracking Captchas, folder: 'proj-2', file: 'portfolio/proj-2.html'}
-- {name: SE Internship at Raiffeisen Bausparkasse, folder: 'proj-3', file: 'portfolio/proj-3.html'}
+- {name: Software Developer at Accenture, folder: 'proj-1', file: 'portfolio/proj-1.html'}
+- {name: Port To Success, folder: 'proj-2', file: 'portfolio/proj-2.html'}
+- {name: Systers, folder: 'proj-3', file: 'portfolio/proj-3.html'}
+- {name: Google Summer Of Code, folder: 'proj-4', file: 'portfolio/proj-4.html'}
 - {name: My First iOS App, folder: 'proj-5', file: 'portfolio/proj-5.html'}
-- {name: Google Summer Of Code 2014, folder: 'proj-7', file: 'portfolio/proj-7.html'}
-- {name: Google Summer Of Code 2015, folder: 'proj-6', file: 'portfolio/proj-6.html'}
-- {name: Systers, folder: 'proj-4', file: 'portfolio/proj-4.html'}
+- {name: MSc Dissertation Cracking Captchas, folder: 'proj-6', file: 'portfolio/proj-6.html'}
+- {name: SE Internship at Raiffeisen Bausparkasse, folder: 'proj-7', file: 'portfolio/proj-7.html'}
 - {name: What's next.., folder: 'proj-8', file: 'portfolio/proj-8.html'}
 
 #-------------------------------

@@ -1,7 +1,44 @@
 # Build settings
 
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.jenpaff.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jenpaff
+github_username:  jenpaff
+
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-feed
+
+port: 8000
+
+include: ['_includes/portfolio']
+exclude: ['the_design.psd']
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+# Build settings
+
+title: Jennifer Parak
+email: jenpaff0@gmail.com
+description:
+  Jennifer Parak - Highly motivated software engineer always looking for new and exciting opportunities to make the world a better place.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.jenpaff.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jenpaff
+github_username:  jenpaff
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
 
 port: 8000
 

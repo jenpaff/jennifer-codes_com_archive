@@ -1,30 +1,18 @@
 ---
-title: Google Summer Of Code 2014
+title: Software Engineering internship at Raiffeisen Bausparkasse
 ---
 
-<strong>Abstract:</strong> I was so excited to be able to work at Google Summer of Code for a project under the Anita Borg Institute. 
-
-<strong>Period:</strong> May 2014 - September 2014
-
-<strong>Description:</strong> Ushahidi Crowdmap is a platform used by the Peace Corps Volutneers working in Azerbaijan in order to improve communication and sharing of resources between volunteers across the country. Ushahidi is an adapted online database from Crowdmap Classic and was a first trial to share and access information online. My task was to improve and customize the crowdmap to the PCVs needs and requirements. We were aiming to improve the online platform in its usability and user experience and  to make it possible for the PCVs to better coordinate their efforts and to share up-to-date resources with each other. 
+<strong>Period:</strong> July 2013 - September 2013
 
 <strong>Skills Learnt:</strong> 
-* PHP 
-* Javascript
-* HTML / CSS
-* Working with Google Glass
-* iOS development in Swift
-* Unit Testing
-* Advanced Github Subversion Control
-* Project management
-* Time management
-* Team and leadership skills
+* Python scripting 
+* Unix Command line 
+* Scrum development 
+* Java 
+* Microsoft Environment 
+* Penthao BI 
+* SVN Subversion
 
-<strong>Resources:</strong> 
-<ul> 
-<li> PCA Crowdmap on <a href="https://github.com/systers/crowdmap">Github</a></li>
-<li> Documentation and Timeline on my old <a href="https://jengeeks.wordpress.com/gsoc-2014/">blog</a></li>
+<strong>Description:</strong> Raiffeisen is one of the largest banks in Austria, with Raiffeisen Bausparkasse being a subsidiary specialising on financing. Since the company was planning moving its database, one of the many tasks during my first technical internship was to develop testing scripts in Python and Bash to verify ETL processes were carried out correctly. I was taught basics of Database Design and Architecture. Further, I was able to familiarize myself working in an UNIX environment and quickly learnt how to programme in a Linux Shell. I further helped developing a new printing API using Java, as well as fixed bugs on the go. Finally, I developed a new way to create the monthly bank reports using Penthao BI products.
 
-</ul>
-
-Feel free to contact me, if you are interested in contributing.
+<strong>Resources:</strong> None available 

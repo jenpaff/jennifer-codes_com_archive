@@ -1,11 +1,20 @@
 ---
-title: Software Engineering internship at Raiffeisen Bausparkasse
+title: Systers - Anita Borg Institute
 ---
 
-<strong>Period:</strong> July 2013 - September 2013
+<strong>Period:</strong> Member since July 2013
 
-<strong>Skills Learnt:</strong> * Python scripting * Unix Command line * Scrum development * Java * Microsoft Environment * Penthao BI * SVN Subversion
+<strong>Description:</strong> Cited from their website: "It’s important to know that you are not alone. Systers is a forum for all women involved in the technical aspects of computing. The community has over 6,000 members from at least 60 countries around the world. We welcome the participation of women technologists of all ages and at any stage of their studies or careers. Systers is the world’s largest email community of women in technical roles in computing. It was founded by Anita Borg in 1987 together with 12 other women as a small electronic mailing list for women in “systems”.
 
-<strong>Description:</strong> Raiffeisen is one of the largest banks in Austria, with Raiffeisen Bausparkasse being a subsidiary specialising on financing. Since the company was planning moving its database, one of the many tasks during my first technical internship was to develop testing scripts in Python and Bash to verify ETL processes were carried out correctly. I was taught basics of Database Design and Architecture. Further, I was able to familiarize myself working in an UNIX environment and quickly learnt how to programme in a Linux Shell. I further helped developing a new printing API using Java, as well as fixed bugs on the go. Finally, I developed a new way to create the monthly bank reports using Penthao BI products.
+Anita’s vision in creating Systers in 1987 was to “increase the number of women in computer science and make the environments in which women work more conducive to their continued participation in the field.”
 
-<strong>Resources:</strong> None available 
+Systers continues to serve this purpose by providing women a private space to seek advice from their peers, and discuss the challenges they share as women technologists. Many Systers members credit the list for helping them make good career decisions, and steering them through difficult professional situations."
+
+<strong>Skills Learnt:</strong> * Open Source Culture * Got involved in projects empowering women
+
+<strong>Resources:</strong> 
+<ul> 
+<li> Who are <a href="http://anitaborg.org/get-involved/systers/">Systers</a>? </li>
+<li> Contribute to one of our Open Source Projects on <a href="https://github.com/systers">Github</a>.</li>
+<li> Join the <a href="http://systers.org/mailman/listinfo/systers">Mailinglist</a></li>
+</ul>

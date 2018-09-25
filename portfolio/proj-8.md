@@ -22,4 +22,4 @@ title: So what's next &#63;
 * Open Source Community
 
 
-Feel free to contact me, if you are interested in contributing.
+Feel free to contact me, if you are interested:
