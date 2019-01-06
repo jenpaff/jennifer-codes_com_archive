@@ -2,7 +2,7 @@
 title: So what's next &#63;
 ---
 
-<strong>I am always interested in new projects, especially when learning how to use new technologies.</strong>
+<strong>I am always interested in new projects, especially on learning how to use new technologies.</strong>
 
 <strong>My special interests are :</strong> 
 * Algorithms
@@ -22,4 +22,4 @@ title: So what's next &#63;
 * Open Source Community
 
 
-Feel free to contact me, if you are interested:
+Feel free to contact me!

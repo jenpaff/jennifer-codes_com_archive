@@ -8,12 +8,13 @@ title: Software Developer at Accenture
 
 <strong>Skills Learnt:</strong>
 * Problem solving
+* Software Architecture & Design
 * Contious Integration & Delivery
 * Agile Development & Scrum
-* Java 8/9
+* Java 8/9/10
 * Database Design
 * Spring 
 * Hibernate / JPA
 * FrontEnd & BackEnd Development
 
-<strong>Description:</strong> My client is a social insurance company in Austria. We are currently in the making of transforming and digitalizing its processes in the course of a huge legacy software migration whilst keeping up the usual production services. The transformation is happening internally through implementing batch services e.g. to calculate the insurers income and underlying social insurance contribution, as well as implementing front end services for the employess and creating an automated process for the insurer, e.g. consulting professionals through the app or website.
+<strong>Description:</strong> Our client is a social insurance company in Austria. We are currently in the making of transforming and digitalizing its processes in the course of a huge legacy software migration whilst keeping up the usual production services. The transformation is happening internally through implementing batch services e.g. to calculate the insurers income and underlying social insurance contribution, as well as implementing front end for in-house services and creating an automated process for the insurer, e.g. consulting professionals through the app or website.

@@ -1,8 +1,9 @@
 #-------------------------------
 # Build settings
 
-port: 8000
-
+port: 443
+url: "https://www.jennifer-codes.com" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: https://www.jennifer-codes.com
 include: ['_includes/portfolio']
 
 sass:
@@ -14,7 +15,7 @@ sass:
 
 title: Jennifer Parak
 description: Innovation comes from people who are different. 
-email: jenpaff0@gmail.com
+email: jp@jennifer-codes.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
